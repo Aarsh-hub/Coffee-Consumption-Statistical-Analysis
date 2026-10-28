@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+requests
+beautifulsoup4
+lxml
